@@ -36,21 +36,9 @@ Feel free to fork this project and submit pull requests. For major changes, plea
 - **Use Correct Email**: Ensure the email address used for commits is associated with your GitHub account.
 - **Commit to Default Branch**: Make commits to the repository's default branch or `gh-pages` branch (for project sites).
 - **Work in Standalone Repositories**: Contributions are only counted in standalone repositories, not forks.
-- **Be Active**: Open issues, pull requests, or discussions in standalone repositories.
 - **Collaborate**: Be a collaborator on the repository or a member of the organization that owns it.
-- **Fork and Contribute**: Fork the repository and open pull requests or issues in it.
 
 ### What Not to Do:
 - **Avoid Fork-Only Work**: Commits made solely in forks without pull requests to the parent repository do not count.
 - **Non-Default Branch Commits**: Commits in non-default branches (other than `gh-pages`) do not count.
 - **Expect Instant Updates**: Contributions may take up to 24 hours to appear on your graph.
-- **SSO Organization Activity**: Ensure you have an active SSO session to see organization contributions.
-
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
-## Contact
-
-If you have any questions or need further assistance, please contact [your email].

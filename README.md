@@ -21,7 +21,7 @@ Set up a cron job to run the script daily at 7:00 PM:
     crontab -e
     ```
 
-2. Add the following line to schedule the script:
+2. Add the following line to schedule the script at midnight each day:
 
     ```sh
     0 0 * * * /bin/bash /path/to/your/contributor.sh

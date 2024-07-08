@@ -1,5 +1,4 @@
-count=$(cat counter.txt)
+count=$(wc -l logfile.txt)
 echo "Contribution number: $count" >> logfile.txt
-echo $((count + 1)) > counter.txt
 git commit -am "added line to file"
 git push
